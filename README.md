@@ -12,7 +12,7 @@ Project 1 will be created on this repository named CMPG-323-Overview - <34683259
 - CMPG 323 Project 5 - <34683259>
 
 # Documentation
-
+![Lean Technical Documentation Template]
 # Branching Strategy to be used within each project 📁
 
 ## Why is branching important? 🤔
